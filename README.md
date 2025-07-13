@@ -114,4 +114,5 @@ Error:{ "error": "User not found" }
 
     If the backend isn’t set up, shortlist cards will display placeholders (age: 'Unknown', interests: ['Not available']).
     Ensure the backend server is running before starting the frontend.
-    For issues, check the backend logs or update the API endpoints in src/App.jsx.
+    For issues, check the backend ![Uploading Screenshot 2025-07-13 142401.png…]()
+logs or update the API endpoints in src/App.jsx.
